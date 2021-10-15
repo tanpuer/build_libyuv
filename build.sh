@@ -1,5 +1,3 @@
-# build_libyuv
-
 #!/bin/bash
 SDK_PATH=/Users/dzsb-000848/Library/Android/sdk
 NDK_PATH=$SDK_PATH/ndk-bundle
